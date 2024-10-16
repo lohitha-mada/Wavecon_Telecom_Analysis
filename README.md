@@ -21,6 +21,6 @@ performance of 5G plans.
 
  Please Find the below links for the Presentation:\-
  
-<a href-"https://www.linkedin.com/posts/lohithamada_codebasicsvirtualinternship-codebasics-dataanalytics-activity-7251913433539883008-GJGw?utm_source=share&utm_medium=member_desktop>LinkedIn </a>\-
+[LinkedIn](https://www.linkedin.com/posts/lohithamada_codebasicsvirtualinternship-codebasics-dataanalytics-activity-7251913433539883008-GJGw?utm_source=share&utm_medium=member_desktop)\-
 
-Youtube: <a"https://youtu.be/1dOymb5I1LM"> </a>
+[Youtube](https://youtu.be/1dOymb5I1LM)
